@@ -1,8 +1,7 @@
 {
-  "keys": [
-    "key_12345",
-    "linuxscript_vip",
-    "test_key_2026"
+  "active_keys": [
+    "USER_KEY_12345",
+    "VIP_KEY_ABCDE",
+    "TEST_KEY_99999"
   ]
 }
-
